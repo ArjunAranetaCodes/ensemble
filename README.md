@@ -1,8 +1,7 @@
 <p align="center"> 
   <img src="/ensemble1.png"/>
 </p>
-# ensemble
-ensemble is a platform that helps you simplify searching for services like catering, photo and video coverage, entertainers for your events.
+<h2>ensemble is a platform that helps you simplify searching for services like catering, photo and video coverage, entertainers for your events.</h2>
 <p align="center"> 
   <img src="/snap1.png"/>
 </p>
